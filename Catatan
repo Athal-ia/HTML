@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Coba coba</title>
+</head>
+<body>
+	<H1>Hmmmm</H1>
+	Hallo. Saya tidak tahu apa yang saya lakukan sekarang...
+<br>
+	:")
+	<h3>Format Text</h3>
+		<B>BOLD</B> . B ajah
+	<BR>
+		<I>ITALIC</I> . Yang ini I ajah
+	<BR>
+		<U>UNDERLINE</U> . Ini U ajah
+<br>
+	Gampang nggih?
+<br>
+	No
+	<!-- <h5>Ctrl+/</h5>
+	<h2>Untuk undo sama saja</h2> -->
+	<h4>Format Text (Cara Lain)</h4>
+		<STRONG>STRONG</STRONG> . Because bold is strong
+	<BR>
+		<EM>EM</EM> . Emmm.. Yo piye yo..
+	<BR>
+		<INS>INS</INS> . Ins is under
+<!-- 	<br>
+		Gila =_= -->
+	<h6>Kepala 6</h6>
+		Saya suka mangga<sub>sangat sangat suka</sub><sup>Kenapa bisa suka</sup>
+	<br>
+		<small>Mangga itu manis</small>
+	<br>
+	<br>
+		<del>Gwarish</del>
+	<br>
+		<mark>Ku tak suka kuning</mark>
+	<h2>PaRaGrAf</h2>
+		<p align="left"> Everybody look to the left</p>
+		<p align="right"> Everybody look to the right</p>
+		<p align="center"> The center of the sun is hot.</p>
+		<p align="justify"> Balance is said to be the key to everything. To achieve balance, one must recognize their bad side and their good side. Human is the most difficult being to achieve balance. They rely to much on their basic animal instict <sub>which is disgusting</sub>, and often forget who they really are. Take yourself for example. Or myself. Whichever. The point is. Human is weird, and we should all learn to be like a dragon. Or unicorn. Or pegasus. Because pegasus is cool</p>
+		<p align="center"> <small><mark>What a load of shite</mark></small></p>
+
+</body>
+</html>
